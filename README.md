@@ -1,4 +1,9 @@
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+
 # 📊 E-Commerce Data Cleaning & Sales Analysis
 
 ## 🚀 Project Overview
@@ -6,6 +11,16 @@
 This project focuses on cleaning and analyzing a real-world e-commerce dataset to extract meaningful business insights. The goal was to transform raw, messy data into a structured format and build an interactive dashboard for decision-making.
 
 ---
+
+# ▶️ How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run cleaning:
+   python cleaning.py
+4. Run analysis:
+   python analysis.py
 
 ## 🧹 Data Cleaning (Excel + Python)
 
