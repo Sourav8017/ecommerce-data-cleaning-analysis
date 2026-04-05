@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# ecommerce-data-cleaning-analysis
-E-commerce data cleaning and sales analysis using Python and Power BI
-=======
+
 # 📊 E-Commerce Data Cleaning & Sales Analysis
 
 ## 🚀 Project Overview
@@ -76,11 +73,11 @@ This project demonstrates how data cleaning and analysis can improve data qualit
 
 ## 📸 Dashboard Preview
 
-dashboard.png
+![Dashboard](dashboard.png)
 
 ---
 
 ## 🙌 Author
 
 Sourav Sarkar
->>>>>>> b951d28 (Initial commit - E-commerce data cleaning & analysis project)
+
